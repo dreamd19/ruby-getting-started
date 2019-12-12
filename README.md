@@ -27,9 +27,6 @@ $ heroku run rake db:migrate
 $ heroku open
 ```
 
-
-
-
 or
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
@@ -68,3 +65,9 @@ You can also use Docker to release to Heroku:
 For more information about using Ruby on Heroku, see these Dev Center articles:
 
 - [Ruby on Heroku](https://devcenter.heroku.com/categories/ruby)
+
+
+
+
+
+
